@@ -1,0 +1,10 @@
+e:\Projects\Web API\bin\Debug\netcoreapp2.0\Web API.deps.json
+e:\Projects\Web API\bin\Debug\netcoreapp2.0\Web API.runtimeconfig.json
+e:\Projects\Web API\bin\Debug\netcoreapp2.0\Web API.runtimeconfig.dev.json
+e:\Projects\Web API\bin\Debug\netcoreapp2.0\Web API.dll
+e:\Projects\Web API\bin\Debug\netcoreapp2.0\Web API.pdb
+e:\Projects\Web API\obj\Debug\netcoreapp2.0\Web API.csproj.CoreCompileInputs.cache
+e:\Projects\Web API\obj\Debug\netcoreapp2.0\Web API.AssemblyInfoInputs.cache
+e:\Projects\Web API\obj\Debug\netcoreapp2.0\Web API.AssemblyInfo.cs
+e:\Projects\Web API\obj\Debug\netcoreapp2.0\Web API.dll
+e:\Projects\Web API\obj\Debug\netcoreapp2.0\Web API.pdb
